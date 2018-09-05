@@ -1,0 +1,71 @@
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4229.ts #Name: USA: DISCOVERY SCIENCE HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4658.ts #Name: USA: CBS HD-US
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2424.ts #Name: USA: WWE Network
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4230.ts #Name: USA: TRAVEL CHANNEL
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2427.ts #Name: USA: TLC
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2380.ts #Name: USA: TBS HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4130.ts #Name: USA: HISTORY HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4129.ts #Name: USA: DISCOVERY CHANNEL HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4144.ts #Name: USA: NAT GEO HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4127.ts #Name: USA: MTV HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4141.ts #Name: USA: CBS News
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4138.ts #Name: USA: AMC
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4291.ts #Name: USA: CW 11 HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4139.ts #Name: USA: T.N.T
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2406.ts #Name: USA: CNN HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2454.ts #Name: USA: CNN
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2423.ts #Name: USA: CNN HD INTERNATIONAL
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4286.ts #Name: USA: FOX NY
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2383.ts #Name: USA: GRIT TV MOVIES
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2440.ts #Name: USA: NBC (EAST)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2395.ts #Name: USA: MLB HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2396.ts #Name: USA: LIFE TIME
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2445.ts #Name: USA: HBO ZONE
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2398.ts #Name: USA: HBO SIGNATURE
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2447.ts #Name: USA: HBO HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2400.ts #Name: USA: HALLMARK HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2449.ts #Name: USA: NBA TV
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2401.ts #Name: USA: FX HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/2403.ts #Name: USA: Fox News
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4707.ts #Name: USA: A&E HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4712.ts #Name: USA: beIN SPORTS HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4709.ts #Name: USA: Nickelodeon
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4708.ts #Name: USA: Cartoon Network HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4725.ts #Name: USA: COMEDY CENTRAL
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4714.ts #Name: USA: DISCOVERY VELOCITY
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4715.ts #Name: USA: E! Network HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4705.ts #Name: USA: FOOD NETWORK
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4719.ts #Name: USA: NBC GOLF
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4723.ts #Name: USA: NHL NETWORK
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4720.ts #Name: USA: RT DOCUMENTARY
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4711.ts #Name: USA: SYFY HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5163.ts #Name: USA: CNBC HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5159.ts #Name: USA: GSN TV
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5158.ts #Name: USA: HBO Family HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/6357.ts #Name: USA: MSNBC HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5157.ts #Name: USA: HGTV HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5161.ts #Name: USA: NHLTV NETWORK HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5156.ts #Name: USA: LMN HDTV
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5153.ts #Name: USA: NICK HD (kids)
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/5152.ts #Name: USA: NICKTOONS
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4021.ts #Name: CA: YTV HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4022.ts #Name: CA: World Fishing TV
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4025.ts #Name: CA: Treehouse
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4026.ts #Name: CA: Travel Channel HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4027.ts #Name: CA: TMN ACTION TV
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4035.ts #Name: CA: Spike HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4036.ts #Name: CA: Slice
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4037.ts #Name: CA: Silver Screen Classics
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4040.ts #Name: CA: RDS2 TV
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4045.ts #Name: CA: omni 1
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4047.ts #Name: CA: Nick
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4050.ts #Name: CA : Movietime TV
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4054.ts #Name: CA: History
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4055.ts #Name: CA: GSN
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4056.ts #Name: CA: Golf Channel
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4059.ts #Name: CA: FXX HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4061.ts #Name: CA: Fox 25
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4063.ts #Name: CA: E! HD
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4065.ts #Name: CA: CTV Toronto
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4070.ts #Name: CA: City TV
+http://51.15.161.153:1557/live/atlas234pro/uyf54gf/4074.ts #Name: CA: Bravo
