@@ -1,9 +1,6 @@
-#EXTINF:-1,US: CBS 47 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7785.ts
-
+#EXTINF:-1,US: CBS 47 NEWShttp://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7785.ts
 #EXTINF:-1,US: 3 ABN kids
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9463.ts
-
 #EXTINF:-1,US: C SPAIN 1
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16688.ts
 
