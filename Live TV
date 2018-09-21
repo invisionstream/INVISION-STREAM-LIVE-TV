@@ -1,237 +1,5 @@
-
-#EXTINF:-1 tvg-ID="tsn1.ca" tvg-name="CA: TSN 1 HD" tvg-logo="" group-title="CANADA",CA: TSN 1 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/29601.ts
-
-#EXTINF:-1 tvg-ID="tsn2.ca" tvg-name="CA: TSN 2 HD" tvg-logo="" group-title="CANADA",CA: TSN 2 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/29602.ts
-
-#EXTINF:-1 tvg-ID="tsn3.ca" tvg-name="CA: TSN 3 HD" tvg-logo="" group-title="CANADA",CA: TSN 3 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/29603.ts
-
-#EXTINF:-1 tvg-ID="tsn4.ca" tvg-name="CA: TSN 4 HD" tvg-logo="" group-title="CANADA",CA: TSN 4 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/29604.ts
-
-#EXTINF:-1 tvg-ID="tsn5.ca" tvg-name="CA: TSN 5 HD" tvg-logo="" group-title="CANADA",CA: TSN 5 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/29605.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: ABC HD" tvg-logo="" group-title="CANADA",CA: ABC HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34439.ts
-
-#EXTINF:-1 tvg-ID="animalplanet.ca" tvg-name="CA: ANIMAL PLANET HD" tvg-logo="" group-title="CANADA",CA: ANIMAL PLANET HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34441.ts
-
-#EXTINF:-1 tvg-ID="aptn.ca" tvg-name="CA: APTN HD" tvg-logo="" group-title="CANADA",CA: APTN HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34442.ts
-
-#EXTINF:-1 tvg-ID="cartoonnetwork.ca" tvg-name="CA: Cartoon NetWork HD" tvg-logo="" group-title="CANADA",CA: Cartoon NetWork HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34444.ts
-
-#EXTINF:-1 tvg-ID="action.ca" tvg-name="CA: ACTION" tvg-logo="" group-title="CANADA",CA: ACTION
-http://server.internext.tv:8080/live/guythomas/thomas@123/34462.ts
-
-#EXTINF:-1 tvg-ID="addiktv.ca" tvg-name="CA: ADDIK TV (FR)" tvg-logo="" group-title="CANADA",CA: ADDIK TV (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/27945.ts
-
-#EXTINF:-1 tvg-ID="aande.ca" tvg-name="CA: A&E FHD" tvg-logo="" group-title="CANADA",CA: A&E FHD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34464.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: ABC (West) HD" tvg-logo="" group-title="CANADA",CA: ABC (West) HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34465.ts
-
-#EXTINF:-1 tvg-ID="amc.ca" tvg-name="CA: AMC HD" tvg-logo="" group-title="CANADA",CA: AMC HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34467.ts
-
-#EXTINF:-1 tvg-ID="bet.ca" tvg-name="CA: BET HD" tvg-logo="" group-title="CANADA",CA: BET HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34469.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: BNN FHD" tvg-logo="" group-title="CANADA",CA: BNN FHD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34470.ts
-
-#EXTINF:-1 tvg-ID="canald.ca" tvg-name="CA: CANAL D (FR)" tvg-logo="" group-title="CANADA",CA: CANAL D (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34471.ts
-
-#EXTINF:-1 tvg-ID="casatv.ca" tvg-name="CA: CASA (FR) HD" tvg-logo="" group-title="CANADA",CA: CASA (FR) HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34472.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: CBS NEWS" tvg-logo="" group-title="CANADA",CA: CBS NEWS
-http://server.internext.tv:8080/live/guythomas/thomas@123/34474.ts
-
-#EXTINF:-1 tvg-ID="chch.ca" tvg-name="CA: CHCH HD" tvg-logo="" group-title="CANADA",CA: CHCH HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34475.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: CNBC WORLD" tvg-logo="" group-title="CANADA",CA: CNBC WORLD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34477.ts
-
-#EXTINF:-1 tvg-ID="comedygold.ca" tvg-name="CA: COMEDY GOLD HD" tvg-logo="" group-title="CANADA",CA: COMEDY GOLD HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34479.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: COMEDY WEST" tvg-logo="" group-title="CANADA",CA: COMEDY WEST
-http://server.internext.tv:8080/live/guythomas/thomas@123/34480.ts
-
-#EXTINF:-1 tvg-ID="cookingchannel.ca" tvg-name="CA: COOKING CHANNEL" tvg-logo="" group-title="CANADA",CA: COOKING CHANNEL
-http://server.internext.tv:8080/live/guythomas/thomas@123/34481.ts
-
-#EXTINF:-1 tvg-ID="cpac.ca" tvg-name="CA: CPAC FRENCH" tvg-logo="" group-title="CANADA",CA: CPAC FRENCH
-http://server.internext.tv:8080/live/guythomas/thomas@123/34484.ts
-
-#EXTINF:-1 tvg-ID="cpac.ca" tvg-name="CA: CPAC FRENCH HD (FR)" tvg-logo="" group-title="CANADA",CA: CPAC FRENCH HD (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34485.ts
-
-#EXTINF:-1 tvg-ID="cpac.ca" tvg-name="CA: CPAC HD" tvg-logo="" group-title="CANADA",CA: CPAC HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34486.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: CW HD" tvg-logo="" group-title="CANADA",CA: CW HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34488.ts
-
-#EXTINF:-1 tvg-ID="discoveryscience.ca" tvg-name="CA: Discovery science FHD" tvg-logo="" group-title="CANADA",CA: Discovery science FHD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34490.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: DISNEY FRENCH" tvg-logo="" group-title="CANADA",CA: DISNEY FRENCH
-http://server.internext.tv:8080/live/guythomas/thomas@123/34491.ts
-
-#EXTINF:-1 tvg-ID="disneyjunior.ca" tvg-name="CA: Disney Junior HD" tvg-logo="" group-title="CANADA",CA: Disney Junior HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34492.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: EVASION (FR)" tvg-logo="" group-title="CANADA",CA: EVASION (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34495.ts
-
-#EXTINF:-1 tvg-ID="fightnetwork.ca" tvg-name="CA: FIGHT NETWORK HD" tvg-logo="" group-title="CANADA",CA: FIGHT NETWORK HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34496.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: FOX HD" tvg-logo="" group-title="CANADA",CA: FOX HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34498.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: FOX Q13 HD" tvg-logo="" group-title="CANADA",CA: FOX Q13 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34499.ts
-
-#EXTINF:-1 tvg-ID="globaltoronto.ca" tvg-name="CA: GLOBAL TORONTO HD" tvg-logo="" group-title="CANADA",CA: GLOBAL TORONTO HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34502.ts
-
-#EXTINF:-1 tvg-ID="hgtv.ca" tvg-name="CA: HGTV HD" tvg-logo="" group-title="CANADA",CA: HGTV HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34507.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: HISTORIO (FR)" tvg-logo="" group-title="CANADA",CA: HISTORIO (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34508.ts
-
-#EXTINF:-1 tvg-ID="hln.ca" tvg-name="CA: HLN HD" tvg-logo="" group-title="CANADA",CA: HLN HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34510.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: ICI MONTREAL (FR)" tvg-logo="" group-title="CANADA",CA: ICI MONTREAL (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34511.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: ICI VANCOUVER (FR)" tvg-logo="" group-title="CANADA",CA: ICI VANCOUVER (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34512.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: LCN (FR)" tvg-logo="" group-title="CANADA",CA: LCN (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34513.ts
-
-#EXTINF:-1 tvg-ID="lifetimetv.ca" tvg-name="CA: Lifetime HD" tvg-logo="" group-title="CANADA",CA: Lifetime HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34514.ts
-
-#EXTINF:-1 tvg-ID="mmax.ca" tvg-name="CA: MAX (FR) HD" tvg-logo="" group-title="CANADA",CA: MAX (FR) HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34515.ts
-
-#EXTINF:-1 tvg-ID="meteo.ca" tvg-name="CA: METEO (FR) HD" tvg-logo="" group-title="CANADA",CA: METEO (FR) HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34516.ts
-
-#EXTINF:-1 tvg-ID="muchmusic.ca" tvg-name="CA: Much Music" tvg-logo="" group-title="CANADA",CA: Much Music
-http://server.internext.tv:8080/live/guythomas/thomas@123/34518.ts
-
-#EXTINF:-1 tvg-ID="musiqueplus.ca" tvg-name="CA: MUSIQUE PLUS (FR)" tvg-logo="" group-title="CANADA",CA: MUSIQUE PLUS (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34519.ts
-
-#EXTINF:-1 tvg-ID="nbatv.ca" tvg-name="CA: NBA TV HD" tvg-logo="" group-title="CANADA",CA: NBA TV HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34521.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: PARAMOUNT NETWORK HD" tvg-logo="" group-title="CANADA",CA: PARAMOUNT NETWORK HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34522.ts
-
-#EXTINF:-1 tvg-ID="peachtree.ca" tvg-name="CA: PEACH TREE HD" tvg-logo="" group-title="CANADA",CA: PEACH TREE HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34524.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: PRISE (FR) HD" tvg-logo="" group-title="CANADA",CA: PRISE (FR) HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34525.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: RDI (FR)" tvg-logo="" group-title="CANADA",CA: RDI (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34526.ts
-
-#EXTINF:-1 tvg-ID="rds.ca" tvg-name="CA: RDS (FR) HD" tvg-logo="" group-title="CANADA",CA: RDS (FR) HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34527.ts
-
-#EXTINF:-1 tvg-ID="rds2.ca" tvg-name="CA: RDS 2 (FR)" tvg-logo="" group-title="CANADA",CA: RDS 2 (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34528.ts
-
-#EXTINF:-1 tvg-ID="rdsinfo.ca" tvg-name="CA: RDS INFO (FR)" tvg-logo="" group-title="CANADA",CA: RDS INFO (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34529.ts
-
-#EXTINF:-1 tvg-ID="spike.ca" tvg-name="CA: Spike HD" tvg-logo="" group-title="CANADA",CA: Spike HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34534.ts
-
-#EXTINF:-1 tvg-ID="sportsnet360.ca" tvg-name="CA: SPORTSNET 360 FHD" tvg-logo="" group-title="CANADA",CA: SPORTSNET 360 FHD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34535.ts
-
-#EXTINF:-1 tvg-ID="sportsneteast.ca" tvg-name="CA: SportsNet EAST HD" tvg-logo="" group-title="CANADA",CA: SportsNet EAST HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34536.ts
-
-#EXTINF:-1 tvg-ID="sportsnetone.ca" tvg-name="CA: SportsNet One FHD" tvg-logo="" group-title="CANADA",CA: SportsNet One FHD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34537.ts
-
-#EXTINF:-1 tvg-ID="sportsnetontario.ca" tvg-name="CA: SportsNet Ontario FHD" tvg-logo="" group-title="CANADA",CA: SportsNet Ontario FHD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34538.ts
-
-#EXTINF:-1 tvg-ID="sportsnetpacific.ca" tvg-name="CA: SportsNet Pecific FHD" tvg-logo="" group-title="CANADA",CA: SportsNet Pecific FHD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34539.ts
-
-#EXTINF:-1 tvg-ID="sportsnetwest.ca" tvg-name="CA: SportsNet WEST HD" tvg-logo="" group-title="CANADA",CA: SportsNet WEST HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34540.ts
-
-#EXTINF:-1 tvg-ID="sportsnetworld.ca" tvg-name="CA: SportsNet WORLD HD" tvg-logo="" group-title="CANADA",CA: SportsNet WORLD HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34541.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: Stringray Classica" tvg-logo="" group-title="CANADA",CA: Stringray Classica
-http://server.internext.tv:8080/live/guythomas/thomas@123/34542.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: Stringray iConcerts" tvg-logo="" group-title="CANADA",CA: Stringray iConcerts
-http://server.internext.tv:8080/live/guythomas/thomas@123/34543.ts
-
-#EXTINF:-1 tvg-ID="superchannel2.ca" tvg-name="CA: Super Channel 2" tvg-logo="" group-title="CANADA",CA: Super Channel 2
-http://server.internext.tv:8080/live/guythomas/thomas@123/34544.ts
-
-#EXTINF:-1 tvg-ID="telequebec.ca" tvg-name="CA: TELE QUEBEC (FR)" tvg-logo="" group-title="CANADA",CA: TELE QUEBEC (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34547.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: V QUEBEC (FR)" tvg-logo="" group-title="CANADA",CA: V QUEBEC (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34568.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: VIE (FR)" tvg-logo="" group-title="CANADA",CA: VIE (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34569.ts
-
-#EXTINF:-1 tvg-ID="vrak.ca" tvg-name="CA: VRAK TV (FR)" tvg-logo="" group-title="CANADA",CA: VRAK TV (FR)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34570.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: WEATHER NETWORK (Toronto) HD)" tvg-logo="" group-title="CANADA",CA: WEATHER NETWORK (Toronto) HD)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34571.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: WOMENS NETWORK" tvg-logo="" group-title="CANADA",CA: WOMENS NETWORK
-http://server.internext.tv:8080/live/guythomas/thomas@123/34572.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: YES TV HD" tvg-logo="" group-title="CANADA",CA: YES TV HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34574.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="CA: YTV (EAST) HD" tvg-logo="" group-title="CANADA",CA: YTV (EAST) HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34576.ts
-
-#EXTINF:-1 tvg-ID="ytv.ca" tvg-name="CA: YTV HD" tvg-logo="" group-title="CANADA",CA: YTV HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/34577.ts
-
-#EXTINF:-1 tvg-ID="afnspectrum.us" tvg-name="USA: AFN SPECTRUM" tvg-logo="" group-title="USA",USA: AFN SPECTRUM
-http://server.internext.tv:8080/live/guythomas/thomas@123/23296.ts
-
-#EXTINF:-1 tvg-ID="americanheroeschannel.us" tvg-name="USA: AMERICAN HEROES CHANNEL" tvg-logo="" group-title="USA",USA: AMERICAN HEROES CHANNEL
-http://server.internext.tv:8080/live/guythomas/thomas@123/22612.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: AMG TV" tvg-logo="" group-title="USA",USA: AMG TV
-http://server.internext.tv:8080/live/guythomas/thomas@123/22634.ts
+#EXTINF:-1 tvg-ID="starzcinema.us" tvg-name="USA: STARZ CINEMA HD" tvg-logo="" group-title="USA",USA: STARZ CINEMA HD
+http://server.internext.tv:8080/live/guythomas/thomas@123/23274.ts
 
 #EXTINF:-1 tvg-ID="bbcamerica.us" tvg-name="USA: BBC AMERICA HD" tvg-logo="" group-title="USA",USA: BBC AMERICA HD
 http://server.internext.tv:8080/live/guythomas/thomas@123/23265.ts
@@ -242,45 +10,6 @@ http://server.internext.tv:8080/live/guythomas/thomas@123/23276.ts
 #EXTINF:-1 tvg-ID="cnn.us" tvg-name="USA: CNN FHD" tvg-logo="" group-title="USA",USA: CNN FHD
 http://server.internext.tv:8080/live/guythomas/thomas@123/27953.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="USA: CNN HD" tvg-logo="" group-title="USA",USA: CNN HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/23273.ts
-
-#EXTINF:-1 tvg-ID="cookingchannel.us" tvg-name="USA: COOKING CHANNEL" tvg-logo="" group-title="USA",USA: COOKING CHANNEL
-http://server.internext.tv:8080/live/guythomas/thomas@123/15679.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: CW 11 HD" tvg-logo="" group-title="USA",USA: CW 11 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/15697.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: CW NETWORK" tvg-logo="" group-title="USA",USA: CW NETWORK
-http://server.internext.tv:8080/live/guythomas/thomas@123/15645.ts
-
-#EXTINF:-1 tvg-ID="discoverychannel.us" tvg-name="USA: DISCOVERY CHANNEL HD" tvg-logo="" group-title="USA",USA: DISCOVERY CHANNEL HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/29545.ts
-
-#EXTINF:-1 tvg-ID="discoveryscience.us" tvg-name="USA: DISCOVERY SCIENCE HD" tvg-logo="" group-title="USA",USA: DISCOVERY SCIENCE HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/17140.ts
-
-#EXTINF:-1 tvg-ID="destinationamerica.us" tvg-name="USA: Destination America" tvg-logo="" group-title="USA",USA: Destination America
-http://server.internext.tv:8080/live/guythomas/thomas@123/19945.ts
-
-#EXTINF:-1 tvg-ID="elrey.us" tvg-name="USA: ELREY NETWORK HD" tvg-logo="" group-title="USA",USA: ELREY NETWORK HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/22802.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: EPIX HD" tvg-logo="" group-title="USA",USA: EPIX HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/23287.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: ESPN 3" tvg-logo="" group-title="USA",USA: ESPN 3
-http://server.internext.tv:8080/live/guythomas/thomas@123/15667.ts
-
-#EXTINF:-1 tvg-ID="espngoalline.us" tvg-name="USA: ESPN HD" tvg-logo="" group-title="USA",USA: ESPN HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/15668.ts
-
-#EXTINF:-1 tvg-ID="espnnews.us" tvg-name="USA: ESPN NEWS HD" tvg-logo="" group-title="USA",USA: ESPN NEWS HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/23289.ts
-
-#EXTINF:-1 tvg-ID="foodnetwork.us" tvg-name="USA: FOOD NETWORK HD" tvg-logo="" group-title="USA",USA: FOOD NETWORK HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/17127.ts
-
 #EXTINF:-1 tvg-ID="foxksaz.us" tvg-name="USA: FOX HD" tvg-logo="" group-title="USA",USA: FOX HD
 http://server.internext.tv:8080/live/guythomas/thomas@123/16688.ts
 
@@ -290,26 +19,125 @@ http://server.internext.tv:8080/live/guythomas/thomas@123/16683.ts
 #EXTINF:-1 tvg-ID="mtv.us" tvg-name="USA: MTV HD" tvg-logo="" group-title="USA",USA: MTV HD
 http://server.internext.tv:8080/live/guythomas/thomas@123/23255.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="USA: NFL SUNDAY TICKET 4 HD" tvg-logo="" group-title="USA",USA: NFL SUNDAY TICKET 4 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/26865.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSP: SPORTS 2 HD" tvg-logo="" group-title="BEIN SPORTS UHD",BEINSP: SPORTS 2 HD
+http://flussonic.royaliptvhd.com/BEINSP2/mpegts?token=royal@2018
 
-#EXTINF:-1 tvg-ID="" tvg-name="USA: NFL SUNDAY TICKET 5 HD" tvg-logo="" group-title="USA",USA: NFL SUNDAY TICKET 5 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/26866.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEINSP: SPORTS 11 HD" tvg-logo="" group-title="BEIN SPORTS UHD",BEINSP: SPORTS 11 HD
+http://flussonic.royaliptvhd.com/BEINSP11/mpegts?token=royal@2018
 
-#EXTINF:-1 tvg-ID="" tvg-name="USA: NFL SUNDAY TICKET 6 HD" tvg-logo="" group-title="USA",USA: NFL SUNDAY TICKET 6 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/26867.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SFR SPORT 1 HD" tvg-logo="" group-title="France",FR: SFR SPORT 1 HD
+http://flussonic.royaliptvhd.com/FR:SFRSPORTS1HD/mpegts?token=royal@2018
 
-#EXTINF:-1 tvg-ID="" tvg-name="USA: NFL SUNDAY TICKET 8 HD" tvg-logo="" group-title="USA",USA: NFL SUNDAY TICKET 8 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/26869.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UKSP: BT SPORT EXTRA" tvg-logo="" group-title="UK SPORTS",UKSP: BT SPORT EXTRA
+http://flussonic.royaliptvhd.com/UKSP:BTSPORTEXTRA/mpegts?token=royal@2018
 
-#EXTINF:-1 tvg-ID="" tvg-name="USA: NFL SUNDAY TICKET 9 HD" tvg-logo="" group-title="USA",USA: NFL SUNDAY TICKET 9 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/26870.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UKSP: CHELSEA TV" tvg-logo="" group-title="UK SPORTS",UKSP: CHELSEA TV
+http://flussonic.royaliptvhd.com/UKSP:CHELSEATV/mpegts?token=royal@2018
 
-#EXTINF:-1 tvg-ID="nickjr.us" tvg-name="USA: NICK JR" tvg-logo="" group-title="USA",USA: NICK JR
-http://server.internext.tv:8080/live/guythomas/thomas@123/26830.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UKSP: EUROSPORT 1 HD" tvg-logo="" group-title="UK SPORTS",UKSP: EUROSPORT 1 HD
+http://flussonic2.royaliptvhd.com/UK:EUROSPORT1/mpegts?token=royal@2018
 
-#EXTINF:-1 tvg-ID="redbulltv.us" tvg-name="USA: REDBULL TV" tvg-logo="" group-title="USA",USA: REDBULL TV
-http://server.internext.tv:8080/live/guythomas/thomas@123/22621.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UKSP: SKY SPORTS ARENA HD" tvg-logo="" group-title="UK SPORTS",UKSP: SKY SPORTS ARENA HD
+http://flussonic.royaliptvhd.com/UKSP:SKYSPORTSARENAHD/mpegts?token=royal@2018
+
+#EXTINF:-1 tvg-ID="" tvg-name="UKSP: PREMIER SPORTS" tvg-logo="" group-title="UK SPORTS",UKSP: PREMIER SPORTS
+http://flussonic.royaliptvhd.com/UKSP:PREMIERSPORTS/mpegts?token=royal@2018
+
+#EXTINF:-1 tvg-ID="" tvg-name="UKSP: SKY SPORTS MAIN EVENT" tvg-logo="" group-title="UK SPORTS",UKSP: SKY SPORTS MAIN EVENT
+http://flussonic.royaliptvhd.com/UKSP:SKYSPORTSMAINEVENTSHD/mpegts?token=royal@2018
+
+#EXTINF:-1 tvg-ID="" tvg-name="UKSP: SKY SPORTS F1 HD" tvg-logo="" group-title="UK SPORTS",UKSP: SKY SPORTS F1 HD
+http://flussonic.royaliptvhd.com/UKSP:SKYSPORTSF1HD/mpegts?token=royal@2018
+
+#EXTINF:-1 tvg-ID="" tvg-name="UKSP: SKY SPORTS PREMIERE LEAGUE" tvg-logo="" group-title="UK SPORTS",UKSP: SKY SPORTS PREMIERE LEAGUE
+http://flussonic.royaliptvhd.com/UKSP:SKYSPORTSPREMIERELEAGUEHD/mpegts?token=royal@2018
+
+#EXTINF:-1 tvg-ID="" tvg-name="IN: AND TV HD" tvg-logo="" group-title="INDIA HINDI",IN: AND TV HD
+http://flussonic.royaliptvhd.com/IN:ANDTVHD/mpegts?token=royal@2018
+
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="UK: SKY NEWS HD" tvg-logo="" group-title="NEWS",UK: SKY NEWS HD
+http://server.internext.tv:8080/live/guythomas/thomas@123/3257.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY REAL LIVES" tvg-logo="" group-title="UK ENTERTAINMENT",UK: SKY REAL LIVES
+http://server.internext.tv:8080/live/guythomas/thomas@123/7791.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: BRAZZERS TV" tvg-logo="" group-title="OTHERS",XXX: BRAZZERS TV
+http://server.internext.tv:8080/live/guythomas/thomas@123/34990.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: HUSTLER TV" tvg-logo="" group-title="OTHERS",XXX: HUSTLER TV
+http://server.internext.tv:8080/live/guythomas/thomas@123/34989.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: JASMINE TV" tvg-logo="" group-title="OTHERS",XXX: JASMINE TV
+http://server.internext.tv:8080/live/guythomas/thomas@123/34988.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 1" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 1
+http://server.internext.tv:8080/live/guythomas/thomas@123/34987.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 2" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 2
+http://server.internext.tv:8080/live/guythomas/thomas@123/34986.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 5" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 5
+http://server.internext.tv:8080/live/guythomas/thomas@123/34983.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 6" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 6
+http://server.internext.tv:8080/live/guythomas/thomas@123/34982.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 7" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 7
+http://server.internext.tv:8080/live/guythomas/thomas@123/34981.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 8" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 8
+http://server.internext.tv:8080/live/guythomas/thomas@123/34980.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 9" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 9
+http://server.internext.tv:8080/live/guythomas/thomas@123/34979.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 10" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 10
+http://server.internext.tv:8080/live/guythomas/thomas@123/34978.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 11" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 11
+http://server.internext.tv:8080/live/guythomas/thomas@123/34977.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 12" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 12
+http://server.internext.tv:8080/live/guythomas/thomas@123/34976.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 13" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 13
+http://server.internext.tv:8080/live/guythomas/thomas@123/34975.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 14" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 14
+http://server.internext.tv:8080/live/guythomas/thomas@123/34974.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 15" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 15
+http://server.internext.tv:8080/live/guythomas/thomas@123/34973.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 16" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 16
+http://server.internext.tv:8080/live/guythomas/thomas@123/34972.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 17" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 17
+http://server.internext.tv:8080/live/guythomas/thomas@123/34971.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 18" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 18
+http://server.internext.tv:8080/live/guythomas/thomas@123/34970.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 19" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 19
+http://server.internext.tv:8080/live/guythomas/thomas@123/34969.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 20" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 20
+http://server.internext.tv:8080/live/guythomas/thomas@123/34968.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 21" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 21
+http://server.internext.tv:8080/live/guythomas/thomas@123/34967.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 22" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 22
+http://server.internext.tv:8080/live/guythomas/thomas@123/34966.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 23" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 23
+http://server.internext.tv:8080/live/guythomas/thomas@123/34965.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 24" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 24
+http://server.internext.tv:8080/live/guythomas/thomas@123/34964.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: PORN CHANNEL 25" tvg-logo="" group-title="OTHERS",XXX: PORN CHANNEL 25
+http://server.internext.tv:8080/live/guythomas/thomas@123/34963.ts
 
 #EXTINF:-1 tvg-ID="showtime.us" tvg-name="USA: SHOWTIME HD" tvg-logo="" group-title="USA",USA: SHOWTIME HD
 http://server.internext.tv:8080/live/guythomas/thomas@123/22613.ts
@@ -317,77 +145,35 @@ http://server.internext.tv:8080/live/guythomas/thomas@123/22613.ts
 #EXTINF:-1 tvg-ID="showtimeshowcase.us" tvg-name="USA: SHOWTIME WEST" tvg-logo="" group-title="USA",USA: SHOWTIME WEST
 http://server.internext.tv:8080/live/guythomas/thomas@123/23272.ts
 
-#EXTINF:-1 tvg-ID="starzcinema.us" tvg-name="USA: STARZ CINEMA HD" tvg-logo="" group-title="USA",USA: STARZ CINEMA HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/23274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="The Cloverfield Paradox" tvg-logo="http://server.internext.tv:8080/images/gfxPTyeG9HescyS3EAcMM0VxNg6_small.jpg" group-title="VOD: ENGLISH",The Cloverfield Paradox
+http://server.internext.tv:8080/movie/guythomas/thomas@123/36421.mp4
 
-#EXTINF:-1 tvg-ID="starzcomedy.us" tvg-name="USA: STARZ COMEDY" tvg-logo="" group-title="USA",USA: STARZ COMEDY
-http://server.internext.tv:8080/live/guythomas/thomas@123/23269.ts
+#EXTINF:-1 tvg-ID="" tvg-name="The Nun" tvg-logo="http://server.internext.tv:8080/images/sFC1ElvoKGdHJIWRpNB3xWJ9lJA_small.jpg" group-title="VOD: ENGLISH",The Nun
+http://server.internext.tv:8080/movie/guythomas/thomas@123/36304.mp4
 
-#EXTINF:-1 tvg-ID="" tvg-name="USA: STARZ EAST" tvg-logo="" group-title="USA",USA: STARZ EAST
-http://server.internext.tv:8080/live/guythomas/thomas@123/23271.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A Quiet Place" tvg-logo="http://server.internext.tv:8080/images/nAU74GmpUk7t5iklEp3bufwDq4n_small.jpg" group-title="VOD: ENGLISH",A Quiet Place
+http://server.internext.tv:8080/movie/guythomas/thomas@123/36306.mp4
 
-#EXTINF:-1 tvg-ID="" tvg-name="USA: THE BLAZE" tvg-logo="" group-title="USA",USA: THE BLAZE
-http://server.internext.tv:8080/live/guythomas/thomas@123/23280.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Adrift" tvg-logo="http://server.internext.tv:8080/images/5gLDeADaETvwQlQow5szlyuhLbj_small.jpg" group-title="VOD: ENGLISH",Adrift
+http://server.internext.tv:8080/movie/guythomas/thomas@123/36316.mp4
 
-#EXTINF:-1 tvg-ID="travelchannel.us" tvg-name="USA: TRAVEL CHANNEL" tvg-logo="" group-title="USA",USA: TRAVEL CHANNEL
-http://server.internext.tv:8080/live/guythomas/thomas@123/2110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Avengers: Infinity War" tvg-logo="http://server.internext.tv:8080/images/7WsyChQLEftFiDOVTGkv3hFpyyt_small.jpg" group-title="VOD: ENGLISH",Avengers: Infinity War
+http://server.internext.tv:8080/movie/guythomas/thomas@123/36310.mp4
 
-#EXTINF:-1 tvg-ID="" tvg-name="USA: TSN 1" tvg-logo="" group-title="USA",USA: TSN 1
-http://server.internext.tv:8080/live/guythomas/thomas@123/17123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Black Panther" tvg-logo="http://server.internext.tv:8080/images/uxzzxijgPIY7slzFvMotPv8wjKA_small.jpg" group-title="VOD: ENGLISH",Black Panther
+http://server.internext.tv:8080/movie/guythomas/thomas@123/36308.mp4
 
-#EXTINF:-1 tvg-ID="" tvg-name="USA: TSN 2" tvg-logo="" group-title="USA",USA: TSN 2
-http://server.internext.tv:8080/live/guythomas/thomas@123/16692.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Incredibles 2" tvg-logo="http://server.internext.tv:8080/images/x1txcDXkcM65gl7w20PwYSxAYah_small.jpg" group-title="VOD: ENGLISH",Incredibles 2
+http://server.internext.tv:8080/movie/guythomas/thomas@123/36309.mp4
 
-#EXTINF:-1 tvg-ID="" tvg-name="USA: TSN 3" tvg-logo="" group-title="USA",USA: TSN 3
-http://server.internext.tv:8080/live/guythomas/thomas@123/16693.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jurassic World: Fallen Kingdom" tvg-logo="http://server.internext.tv:8080/images/c9XxwwhPHdaImA2f1WEfEsbhaFB_small.jpg" group-title="VOD: ENGLISH",Jurassic World: Fallen Kingdom
+http://server.internext.tv:8080/movie/guythomas/thomas@123/36314.mp4
 
-#EXTINF:-1 tvg-ID="" tvg-name="USA: TSN 4" tvg-logo="" group-title="USA",USA: TSN 4
-http://server.internext.tv:8080/live/guythomas/thomas@123/16694.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Karwaan" tvg-logo="http://server.internext.tv:8080/images/dS0ZFlqGbGGksSUdqk7niL7rywc_small.jpg" group-title="VOD: HINDI",Karwaan
+http://server.internext.tv:8080/movie/guythomas/thomas@123/36307.mp4
 
-#EXTINF:-1 tvg-ID="" tvg-name="USA: TSN 5" tvg-logo="" group-title="USA",USA: TSN 5
-http://server.internext.tv:8080/live/guythomas/thomas@123/16695.ts
-
-#EXTINF:-1 tvg-ID="univisiondeportes.us" tvg-name="USA: UNIVISION DEP HD" tvg-logo="" group-title="USA",USA: UNIVISION DEP HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/23261.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: USA CINEMAX EAST" tvg-logo="" group-title="USA",USA: USA CINEMAX EAST
-http://server.internext.tv:8080/live/guythomas/thomas@123/22604.ts
-
-#EXTINF:-1 tvg-ID="discoveryvelocity.us" tvg-name="USA: VELOCITY" tvg-logo="" group-title="USA",USA: VELOCITY
-http://server.internext.tv:8080/live/guythomas/thomas@123/17124.ts
-
-#EXTINF:-1 tvg-ID="vh1.us" tvg-name="USA: VH1 HD" tvg-logo="" group-title="USA",USA: VH1 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/26832.ts
-
-#EXTINF:-1 tvg-ID="wwe.us" tvg-name="USA: WWE NETWORK HD" tvg-logo="" group-title="USA",USA: WWE NETWORK HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/22635.ts
-
-#EXTINF:-1 tvg-ID="ion.us" tvg-name="USA: iON" tvg-logo="" group-title="USA",USA: iON
-http://server.internext.tv:8080/live/guythomas/thomas@123/23279.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: MLB 722 | EXTRA INNINGS: BASEBALL (Live During Games)" tvg-logo="" group-title="USA",USA: MLB 722 | EXTRA INNINGS: BASEBALL (Live During Games)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34083.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: MLB 735 | EXTRA INNINGS: BASEBALL (Live During Games)" tvg-logo="" group-title="USA",USA: MLB 735 | EXTRA INNINGS: BASEBALL (Live During Games)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34096.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: MLB 738 | EXTRA INNINGS: BASEBALL (Live During Games)" tvg-logo="" group-title="USA",USA: MLB 738 | EXTRA INNINGS: BASEBALL (Live During Games)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34099.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: MLB 739 | EXTRA INNINGS: BASEBALL (Live During Games)" tvg-logo="" group-title="USA",USA: MLB 739 | EXTRA INNINGS: BASEBALL (Live During Games)
-http://server.internext.tv:8080/live/guythomas/thomas@123/34100.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC GOLD 4 HD" tvg-logo="" group-title="USA",USA: NBC GOLD 4 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/35007.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC GOLD 5 HD" tvg-logo="" group-title="USA 24/7",USA: NBC GOLD 5 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/35008.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC GOLD 6 HD" tvg-logo="" group-title="USA",USA: NBC GOLD 6 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/35009.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC GOLD 7 HD" tvg-logo="" group-title="USA",USA: NBC GOLD 7 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/35010.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ocean's Eight" tvg-logo="http://server.internext.tv:8080/images/MvYpKlpFukTivnlBhizGbkAe3v_small.jpg" group-title="VOD: ENGLISH",Ocean's Eight
+http://server.internext.tv:8080/movie/guythomas/thomas@123/36312.mp4
 
 #EXTINF:-1 tvg-ID="" tvg-name="USA: 24x7 BACK TO THE FUTURE MOVIES" tvg-logo="" group-title="USA 24/7",USA: 24x7 BACK TO THE FUTURE MOVIES
 http://server.internext.tv:8080/live/guythomas/thomas@123/35017.ts
@@ -518,362 +304,4 @@ http://server.internext.tv:8080/live/guythomas/thomas@123/35050.ts
 #EXTINF:-1 tvg-ID="" tvg-name="USA: 24x7 WWE WRESTLEMANIA" tvg-logo="" group-title="USA 24/7",USA: 24x7 WWE WRESTLEMANIA
 http://server.internext.tv:8080/live/guythomas/thomas@123/35052.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BBC 3 HD" tvg-logo="" group-title="NEWS",UK: BBC 3 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/7834.ts
-
-#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="UK: BBC 4 HD" tvg-logo="" group-title="NEWS",UK: BBC 4 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3253.ts
-
-#EXTINF:-1 tvg-ID="bbcnews.uk" tvg-name="UK: BBC NEWS" tvg-logo="" group-title="NEWS",UK: BBC NEWS
-http://vmstbuk.co.uk:8000/live/simiptv.com/12345/4455.ts
-
-#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="UK: BBC ONE" tvg-logo="" group-title="NEWS",UK: BBC ONE
-http://server.internext.tv:8080/live/guythomas/thomas@123/3252.ts
-
-#EXTINF:-1 tvg-ID="historychannel.uk" tvg-name="UK: HIsTORY HD" tvg-logo="" group-title="UK ENTERTAINMENT",UK: HIsTORY HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/27280.ts
-
-#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="UK: BBC THREE" tvg-logo="" group-title="UK ENTERTAINMENT",UK: BBC THREE
-http://server.internext.tv:8080/live/guythomas/thomas@123/27521.ts
-
-#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="UK: BBC TWO HD" tvg-logo="" group-title="UK ENTERTAINMENT",UK: BBC TWO HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/7833.ts
-
-#EXTINF:-1 tvg-ID="boomerang.uk" tvg-name="UK: BOOMERANG HD" tvg-logo="" group-title="UK KIDS",UK: BOOMERANG HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3337.ts
-
-#EXTINF:-1 tvg-ID="cartoonito.uk" tvg-name="UK: CARTOONITO" tvg-logo="" group-title="UK KIDS",UK: CARTOONITO
-http://server.internext.tv:8080/live/guythomas/thomas@123/23120.ts
-
-#EXTINF:-1 tvg-ID="cbeebies.uk" tvg-name="UK: CBEEBIES HD" tvg-logo="" group-title="UK KIDS",UK: CBEEBIES HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/23125.ts
-
-#EXTINF:-1 tvg-ID="cbsaction.uk" tvg-name="UK: CBS ACTION" tvg-logo="" group-title="UK ENTERTAINMENT",UK: CBS ACTION
-http://server.internext.tv:8080/live/guythomas/thomas@123/8597.ts
-
-#EXTINF:-1 tvg-ID="cbsdrama.uk" tvg-name="UK: CBS DRAMA" tvg-logo="" group-title="UK ENTERTAINMENT",UK: CBS DRAMA
-http://server.internext.tv:8080/live/guythomas/thomas@123/8596.ts
-
-#EXTINF:-1 tvg-ID="really.uk" tvg-name="UK: REALLY" tvg-logo="" group-title="UK ENTERTAINMENT",UK: REALLY
-http://server.internext.tv:8080/live/guythomas/thomas@123/8595.ts
-
-#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="UK: CHANNEL 4" tvg-logo="" group-title="UK ENTERTAINMENT",UK: CHANNEL 4
-http://server.internext.tv:8080/live/guythomas/thomas@123/8613.ts
-
-#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="UK: CHANNEL 5" tvg-logo="" group-title="UK ENTERTAINMENT",UK: CHANNEL 5
-http://server.internext.tv:8080/live/guythomas/thomas@123/8612.ts
-
-#EXTINF:-1 tvg-ID="cnn.uk" tvg-name="UK: CNN NEWS" tvg-logo="" group-title="NEWS",UK: CNN NEWS
-http://server.internext.tv:8080/live/guythomas/thomas@123/7802.ts
-
-#EXTINF:-1 tvg-ID="colors.uk" tvg-name="UK: COLORS" tvg-logo="" group-title="UK ENTERTAINMENT",UK: COLORS
-http://server.internext.tv:8080/live/guythomas/thomas@123/7830.ts
-
-#EXTINF:-1 tvg-ID="comedycentral.uk" tvg-name="UK: COMEDY CENTRAL" tvg-logo="" group-title="UK ENTERTAINMENT",UK: COMEDY CENTRAL
-http://server.internext.tv:8080/live/guythomas/thomas@123/3343.ts
-
-#EXTINF:-1 tvg-ID="dave.uk" tvg-name="UK: DAVE" tvg-logo="" group-title="UK ENTERTAINMENT",UK: DAVE
-http://server.internext.tv:8080/live/guythomas/thomas@123/8576.ts
-
-#EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="UK: DISCOVERY CHANNEL HD" tvg-logo="" group-title="UK DOCUMENTARIES",UK: DISCOVERY CHANNEL HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/8637.ts
-
-#EXTINF:-1 tvg-ID="discoveryhistory.uk" tvg-name="UK: DISCOVERY HISTORY" tvg-logo="" group-title="UK KIDS",UK: DISCOVERY HISTORY
-http://server.internext.tv:8080/live/guythomas/thomas@123/3341.ts
-
-#EXTINF:-1 tvg-ID="disneychannel.uk" tvg-name="UK: DISNEY CHANNEL HD" tvg-logo="" group-title="UK KIDS",UK: DISNEY CHANNEL HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/8572.ts
-
-#EXTINF:-1 tvg-ID="disneyjunior.uk" tvg-name="UK: DISNEY JUNIOR HD" tvg-logo="" group-title="UK KIDS",UK: DISNEY JUNIOR HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/23124.ts
-
-#EXTINF:-1 tvg-ID="disneyxd.uk" tvg-name="UK: DISNEY XD HD" tvg-logo="" group-title="UK KIDS",UK: DISNEY XD HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/23123.ts
-
-#EXTINF:-1 tvg-ID="discoverydmax.uk" tvg-name="UK: DMAX" tvg-logo="" group-title="UK ENTERTAINMENT",UK: DMAX
-http://server.internext.tv:8080/live/guythomas/thomas@123/7822.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: DW TV" tvg-logo="" group-title="UK KIDS",UK: DW TV
-http://server.internext.tv:8080/live/guythomas/thomas@123/7864.ts
-
-#EXTINF:-1 tvg-ID="eentertainment.uk" tvg-name="UK: E" tvg-logo="" group-title="UK ENTERTAINMENT",UK: E
-http://server.internext.tv:8080/live/guythomas/thomas@123/7794.ts
-
-#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="UK: LIVERPOOL TV" tvg-logo="" group-title="UK ENTERTAINMENT",UK: LIVERPOOL TV
-http://server.internext.tv:8080/live/guythomas/thomas@123/8571.ts
-
-#EXTINF:-1 tvg-ID="film4.uk" tvg-name="UK: FILM 4 HD" tvg-logo="" group-title="CINEMA / MOVIES",UK: FILM 4 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/8569.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: FIVE+ 1" tvg-logo="" group-title="UK ENTERTAINMENT",UK: FIVE+ 1
-http://server.internext.tv:8080/live/guythomas/thomas@123/8567.ts
-
-#EXTINF:-1 tvg-ID="foodnetwork.uk" tvg-name="UK: FOOD NETWORK" tvg-logo="" group-title="UK ENTERTAINMENT",UK: FOOD NETWORK
-http://server.internext.tv:8080/live/guythomas/thomas@123/7804.ts
-
-#EXTINF:-1 tvg-ID="fox.uk" tvg-name="UK: FOX HD" tvg-logo="" group-title="UK ENTERTAINMENT",UK: FOX HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3339.ts
-
-#EXTINF:-1 tvg-ID="gold.uk" tvg-name="UK: GOLD" tvg-logo="" group-title="UK ENTERTAINMENT",UK: GOLD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3901.ts
-
-#EXTINF:-1 tvg-ID="goodfood.uk" tvg-name="UK: GOOD FOOD" tvg-logo="" group-title="UK ENTERTAINMENT",UK: GOOD FOOD
-http://server.internext.tv:8080/live/guythomas/thomas@123/22783.ts
-
-#EXTINF:-1 tvg-ID="horrorchannel.uk" tvg-name="UK: HORROR CHANNEL" tvg-logo="" group-title="UK ENTERTAINMENT",UK: HORROR CHANNEL
-http://server.internext.tv:8080/live/guythomas/thomas@123/3317.ts
-
-#EXTINF:-1 tvg-ID="investigationdiscovery.uk" tvg-name="UK: INVESTIGATION DISCOVERY" tvg-logo="" group-title="UK DOCUMENTARIES",UK: INVESTIGATION DISCOVERY
-http://server.internext.tv:8080/live/guythomas/thomas@123/8565.ts
-
-#EXTINF:-1 tvg-ID="itv1anglia.uk" tvg-name="UK: ITV" tvg-logo="" group-title="UK ENTERTAINMENT",UK: ITV
-http://server.internext.tv:8080/live/guythomas/thomas@123/8564.ts
-
-#EXTINF:-1 tvg-ID="itv1anglia.uk" tvg-name="UK: ITV 1 HD" tvg-logo="" group-title="UK ENTERTAINMENT",UK: ITV 1 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3239.ts
-
-#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="UK: ITV 2 HD" tvg-logo="" group-title="UK ENTERTAINMENT",UK: ITV 2 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3240.ts
-
-#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="UK: ITV 3 HD" tvg-logo="" group-title="UK ENTERTAINMENT",UK: ITV 3 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3241.ts
-
-#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="UK: ITV 4 HD" tvg-logo="" group-title="UK ENTERTAINMENT",UK: ITV 4 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3242.ts
-
-#EXTINF:-1 tvg-ID="more4.uk" tvg-name="UK: MORE 4" tvg-logo="" group-title="UK ENTERTAINMENT",UK: MORE 4
-http://server.internext.tv:8080/live/guythomas/thomas@123/8558.ts
-
-#EXTINF:-1 tvg-ID="movies4men.uk" tvg-name="UK: MOVIES 4 MEN" tvg-logo="" group-title="UK ENTERTAINMENT",UK: MOVIES 4 MEN
-http://server.internext.tv:8080/live/guythomas/thomas@123/8557.ts
-
-#EXTINF:-1 tvg-ID="mtvbase.uk" tvg-name="UK: MTV BASE" tvg-logo="" group-title="UK MUSIC",UK: MTV BASE
-http://server.internext.tv:8080/live/guythomas/thomas@123/3327.ts
-
-#EXTINF:-1 tvg-ID="mtv.uk" tvg-name="UK: MTV HD" tvg-logo="" group-title="UK MUSIC",UK: MTV HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3325.ts
-
-#EXTINF:-1 tvg-ID="mtvdance.uk" tvg-name="UK: MTV DANCE" tvg-logo="" group-title="UK MUSIC",UK: MTV DANCE
-http://server.internext.tv:8080/live/guythomas/thomas@123/7839.ts
-
-#EXTINF:-1 tvg-ID="mtvhits.uk" tvg-name="UK: MTV HITS" tvg-logo="" group-title="UK MUSIC",UK: MTV HITS
-http://server.internext.tv:8080/live/guythomas/thomas@123/3324.ts
-
-#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="UK: NAT GEO WILD" tvg-logo="" group-title="UK DOCUMENTARIES",UK: NAT GEO WILD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3323.ts
-
-#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="UK: NICK JUNIOR HD" tvg-logo="" group-title="UK KIDS",UK: NICK JUNIOR HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/8609.ts
-
-#EXTINF:-1 tvg-ID="nicktoons.uk" tvg-name="UK: NICKTOONS HD" tvg-logo="" group-title="UK KIDS",UK: NICKTOONS HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/8632.ts
-
-#EXTINF:-1 tvg-ID="picktv.uk" tvg-name="UK: PICK TV" tvg-logo="" group-title="UK ENTERTAINMENT",UK: PICK TV
-http://server.internext.tv:8080/live/guythomas/thomas@123/8556.ts
-
-#EXTINF:-1 tvg-ID="quest.uk" tvg-name="UK: QUEST" tvg-logo="" group-title="UK ENTERTAINMENT",UK: QUEST
-http://server.internext.tv:8080/live/guythomas/thomas@123/3245.ts
-
-#EXTINF:-1 tvg-ID="racinguk.uk" tvg-name="UK: RACING UK HD" tvg-logo="" group-title="UK SPORTS",UK: RACING UK HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/7775.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: RTE 1" tvg-logo="" group-title="UK ENTERTAINMENT",UK: RTE 1
-http://server.internext.tv:8080/live/guythomas/thomas@123/7835.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: RTE 2" tvg-logo="" group-title="UK ENTERTAINMENT",UK: RTE 2
-http://server.internext.tv:8080/live/guythomas/thomas@123/7836.ts
-
-#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="UK: SKY ACTION" tvg-logo="" group-title="UK ENTERTAINMENT",UK: SKY ACTION
-http://server.internext.tv:8080/live/guythomas/thomas@123/8553.ts
-
-#EXTINF:-1 tvg-ID="skyarts.uk" tvg-name="UK: SKY ARTS 1" tvg-logo="" group-title="UK ENTERTAINMENT",UK: SKY ARTS 1
-http://server.internext.tv:8080/live/guythomas/thomas@123/8554.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY CHALLENGE" tvg-logo="" group-title="UK ENTERTAINMENT",UK: SKY CHALLENGE
-http://server.internext.tv:8080/live/guythomas/thomas@123/8844.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY CINEMA ATLANTIC" tvg-logo="" group-title="CINEMA / MOVIES",UK: SKY CINEMA ATLANTIC
-http://server.internext.tv:8080/live/guythomas/thomas@123/8549.ts
-
-#EXTINF:-1 tvg-ID="skycomedy.uk" tvg-name="UK: SKY CINEMA COMEDY HD" tvg-logo="" group-title="CINEMA / MOVIES",UK: SKY CINEMA COMEDY HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3232.ts
-
-#EXTINF:-1 tvg-ID="skydisney.uk" tvg-name="UK: SKY CINEMA DISNEY HD" tvg-logo="" group-title="CINEMA / MOVIES",UK: SKY CINEMA DISNEY HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3251.ts
-
-#EXTINF:-1 tvg-ID="skycinemaromance.uk" tvg-name="UK: SKY CINEMA DRAMA AND ROMANCE HD" tvg-logo="" group-title="CINEMA / MOVIES",UK: SKY CINEMA DRAMA AND ROMANCE HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3250.ts
-
-#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="UK: SKY CINEMA FAMILY HD" tvg-logo="" group-title="CINEMA / MOVIES",UK: SKY CINEMA FAMILY HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3249.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY CINEMA HITS" tvg-logo="" group-title="CINEMA / MOVIES",UK: SKY CINEMA HITS
-http://server.internext.tv:8080/live/guythomas/thomas@123/9595.ts
-
-#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="UK: SKY CINEMA PREMIERE HD" tvg-logo="" group-title="CINEMA / MOVIES",UK: SKY CINEMA PREMIERE HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3230.ts
-
-#EXTINF:-1 tvg-ID="skydisney.uk" tvg-name="UK: SKY DISNEY XD" tvg-logo="" group-title="UK KIDS",UK: SKY DISNEY XD
-http://server.internext.tv:8080/live/guythomas/thomas@123/8552.ts
-
-#EXTINF:-1 tvg-ID="skyliving.uk" tvg-name="UK: SKY LIVING" tvg-logo="" group-title="UK ENTERTAINMENT",UK: SKY LIVING
-http://server.internext.tv:8080/live/guythomas/thomas@123/3246.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY CINEMA MODERN GREATS HD" tvg-logo="" group-title="UK ENTERTAINMENT",UK: SKY CINEMA MODERN GREATS HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/8551.ts
-
-#EXTINF:-1 tvg-ID="skycrimethriller.uk" tvg-name="UK: SKY CINEMA ACTION ADVENTURE HD" tvg-logo="" group-title="CINEMA / MOVIES",UK: SKY CINEMA ACTION ADVENTURE HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3233.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY CINEMA SCIFI THRILLER HD" tvg-logo="" group-title="CINEMA / MOVIES",UK: SKY CINEMA SCIFI THRILLER HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/8545.ts
-
-#EXTINF:-1 tvg-ID="skyselect.uk" tvg-name="UK: SKY CINEMA SELECT HD" tvg-logo="" group-title="CINEMA / MOVIES",UK: SKY CINEMA SELECT HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3228.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY MOVIES SHOWCASE HD" tvg-logo="" group-title="CINEMA / MOVIES",UK: SKY MOVIES SHOWCASE HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3258.ts
-
-#EXTINF:-1 tvg-ID="skycrimethriller.uk" tvg-name="UK: SKY CINEMA THRILLER HD" tvg-logo="" group-title="CINEMA / MOVIES",UK: SKY CINEMA THRILLER HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3261.ts
-
-#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="UK: SKY NEWS HD" tvg-logo="" group-title="NEWS",UK: SKY NEWS HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3257.ts
-
-#EXTINF:-1 tvg-ID="sky1.uk" tvg-name="UK: SKY ONE HD" tvg-logo="" group-title="UK ENTERTAINMENT",UK: SKY ONE HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3331.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: SKY REAL LIVES" tvg-logo="" group-title="UK ENTERTAINMENT",UK: SKY REAL LIVES
-http://server.internext.tv:8080/live/guythomas/thomas@123/7791.ts
-
-#EXTINF:-1 tvg-ID="sky2.uk" tvg-name="UK: SKY TWO" tvg-logo="" group-title="UK ENTERTAINMENT",UK: SKY TWO
-http://server.internext.tv:8080/live/guythomas/thomas@123/3243.ts
-
-#EXTINF:-1 tvg-ID="sonymovies.uk" tvg-name="UK: SONY MOVIES" tvg-logo="" group-title="CINEMA / MOVIES",UK: SONY MOVIES
-http://server.internext.tv:8080/live/guythomas/thomas@123/8605.ts
-
-#EXTINF:-1 tvg-ID="syfy.uk" tvg-name="UK: SYFY" tvg-logo="" group-title="UK ENTERTAINMENT",UK: SYFY
-http://server.internext.tv:8080/live/guythomas/thomas@123/3391.ts
-
-#EXTINF:-1 tvg-ID="tcm.uk" tvg-name="UK: TCM" tvg-logo="" group-title="CINEMA / MOVIES",UK: TCM
-http://server.internext.tv:8080/live/guythomas/thomas@123/8536.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: WATCH" tvg-logo="" group-title="UK ENTERTAINMENT",UK: WATCH
-http://server.internext.tv:8080/live/guythomas/thomas@123/10535.ts
-
-#EXTINF:-1 tvg-ID="yesterday.uk" tvg-name="UK: YESTERDAY" tvg-logo="" group-title="UK ENTERTAINMENT",UK: YESTERDAY
-http://server.internext.tv:8080/live/guythomas/thomas@123/7790.ts
-
-#EXTINF:-1 tvg-ID="zeecinema.uk" tvg-name="UK: ZEE CINEMA" tvg-logo="" group-title="CINEMA / MOVIES",UK: ZEE CINEMA
-http://server.internext.tv:8080/live/guythomas/thomas@123/8533.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: BOX NATION" tvg-logo="" group-title="UK SPORTS",UKSP: BOX NATION
-http://server.internext.tv:8080/live/guythomas/thomas@123/8604.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: BT SPORT EXTRA" tvg-logo="" group-title="UK SPORTS",UKSP: BT SPORT EXTRA
-http://flussonic.royaliptvhd.com/UKSP:BTSPORTEXTRA/mpegts?token=royal@2018
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: BT SPORTS 1 HD" tvg-logo="" group-title="UK SPORTS",UKSP: BT SPORTS 1 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3234.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: BT SPORTS 2 HD" tvg-logo="" group-title="UK SPORTS",UKSP: BT SPORTS 2 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/3235.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: BT SPORTS 3 HD" tvg-logo="" group-title="UK SPORTS",UKSP: BT SPORTS 3 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/7765.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: BT SPORTS ESPN HD" tvg-logo="" group-title="UK SPORTS",UKSP: BT SPORTS ESPN HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/7767.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: CHELSEA TV" tvg-logo="" group-title="UK SPORTS",UKSP: CHELSEA TV
-http://flussonic.royaliptvhd.com/UKSP:CHELSEATV/mpegts?token=royal@2018
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: EIR SPORTS 1 HD" tvg-logo="" group-title="UK SPORTS",UKSP: EIR SPORTS 1 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/7760.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: EUROSPORT 1 HD" tvg-logo="" group-title="UK SPORTS",UKSP: EUROSPORT 1 HD
-http://flussonic2.royaliptvhd.com/UK:EUROSPORT1/mpegts?token=royal@2018
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: EUROSPORT 2 HD" tvg-logo="" group-title="UK SPORTS",UKSP: EUROSPORT 2 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/7782.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: SKY SPORTS ARENA HD" tvg-logo="" group-title="UK SPORTS",UKSP: SKY SPORTS ARENA HD
-http://flussonic.royaliptvhd.com/UKSP:SKYSPORTSARENAHD/mpegts?token=royal@2018
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: MU TV HD" tvg-logo="" group-title="UK SPORTS",UKSP: MU TV HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/8603.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: PREMIER SPORTS" tvg-logo="" group-title="UK SPORTS",UKSP: PREMIER SPORTS
-http://flussonic.royaliptvhd.com/UKSP:PREMIERSPORTS/mpegts?token=royal@2018
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: SKY SPORTS MAIN EVENT" tvg-logo="" group-title="UK SPORTS",UKSP: SKY SPORTS MAIN EVENT
-http://flussonic.royaliptvhd.com/UKSP:SKYSPORTSMAINEVENTSHD/mpegts?token=royal@2018
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: SKY SPORTS F1 HD" tvg-logo="" group-title="UK SPORTS",UKSP: SKY SPORTS F1 HD
-http://flussonic.royaliptvhd.com/UKSP:SKYSPORTSF1HD/mpegts?token=royal@2018
-
-#EXTINF:-1 tvg-ID="cnn.uk" tvg-name="UK: CNN FHD" tvg-logo="" group-title="NEWS",UK: CNN FHD
-http://server.internext.tv:8080/live/guythomas/thomas@123/27954.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: BLAZE HD" tvg-logo="" group-title="UK ENTERTAINMENT",UK: BLAZE HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/35038.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UK: E4 HD" tvg-logo="" group-title="UK ENTERTAINMENT",UK: E4 HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/36201.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="UKSP: SKY SPORTS PREMIERE LEAGUE" tvg-logo="" group-title="UK SPORTS",UKSP: SKY SPORTS PREMIERE LEAGUE
-http://flussonic.royaliptvhd.com/UKSP:SKYSPORTSPREMIERELEAGUEHD/mpegts?token=royal@2018
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: A&E" tvg-logo="" group-title="PORTUGAL",PT: A&E
-http://server.internext.tv:8080/live/guythomas/thomas@123/35641.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: AFRO MUSIC" tvg-logo="" group-title="PORTUGAL",PT: AFRO MUSIC
-http://server.internext.tv:8080/live/guythomas/thomas@123/35621.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: AMC" tvg-logo="" group-title="PORTUGAL",PT: AMC
-http://server.internext.tv:8080/live/guythomas/thomas@123/35667.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: AXN BLACK HD" tvg-logo="" group-title="PORTUGAL",PT: AXN BLACK HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/35649.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: AXN HD" tvg-logo="" group-title="PORTUGAL",PT: AXN HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/35650.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: CBS REALITY" tvg-logo="" group-title="PORTUGAL",PT: CBS REALITY
-http://server.internext.tv:8080/live/guythomas/thomas@123/35630.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: DISCOVERY CHANNEL
-http://server.internext.tv:8080/live/guythomas/thomas@123/35635.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: DISNEY CHANNEL" tvg-logo="" group-title="PORTUGAL",PT: DISNEY CHANNEL
-http://server.internext.tv:8080/live/guythomas/thomas@123/35681.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: DISNEY JUNIOR" tvg-logo="" group-title="PORTUGAL",PT: DISNEY JUNIOR
-http://server.internext.tv:8080/live/guythomas/thomas@123/35676.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FOOD NETWORK" tvg-logo="" group-title="PORTUGAL",PT: FOOD NETWORK
-http://server.internext.tv:8080/live/guythomas/thomas@123/35643.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX COMEDY" tvg-logo="" group-title="PORTUGAL",PT: FOX COMEDY
-http://server.internext.tv:8080/live/guythomas/thomas@123/35651.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX CRIME HD" tvg-logo="" group-title="PORTUGAL",PT: FOX CRIME HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/35652.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX HD" tvg-logo="" group-title="PORTUGAL",PT: FOX HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/35654.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX LIFE HD" tvg-logo="" group-title="PORTUGAL",PT: FOX LIFE HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/35653.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX MOVIES" tvg-logo="" group-title="PORTUGAL",PT: FOX MOVIES
-http://server.internext.tv:8080/live/guythomas/thomas@123/35668.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: HBO Family" tvg-logo="" group-title="PORTUGAL",PT: HBO Family
-http://server.internext.tv:8080/live/guythomas/thomas@123/35645.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: HBO HD" tvg-logo="" group-title="PORTUGAL",PT: HBO HD
-http://server.internext.tv:8080/live/guythomas/thomas@123/35646.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TRAVEL CHANNEL FHD" tvg-logo="" group-title="PORTUGAL",PT: TRAVEL CHANNEL FHD
-http://server.internext.tv:8080/live/guythomas/thomas@123/35639.ts
 
